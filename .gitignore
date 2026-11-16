@@ -1,0 +1,19 @@
+# The organisers' repository and the match data (not redistributable), the external
+# datasets, trained models and anything derived from the match: never in this repository.
+/repo
+/external
+/cache/
+/outputs/
+
+.venv/
+__pycache__/
+.DS_Store
+*.pt
+*.npy
+*.npz
+*.pkl
+*.joblib
+*.mp4
+*.mov
+*.wav
+*.raw
